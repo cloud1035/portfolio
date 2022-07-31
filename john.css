@@ -1,0 +1,408 @@
+.body {
+  background-color: black;
+  color: white;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+form {
+  display: inline-block;
+}
+button {
+  cursor: pointer;
+}
+.center-left button {
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+.center-left .p-size {
+  line-height: 46px;
+}
+.footerbar a {
+  color: aliceblue;
+}
+.calendly-inline-widget {
+  z-index: 40;
+}
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 128px;
+  background-color: black;
+  z-index: 40;
+}
+
+.left-header {
+  height: auto;
+  width: 216 px;
+  padding-left: 80px;
+  padding-top: 50px;
+}
+
+.right-header {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  background-color: black;
+  border: none;
+  height: 24px;
+  width: auto;
+  border-top-style: none;
+}
+
+.topmargin {
+  margin-top: 72px;
+}
+
+.margin40 {
+  margin: 0px 40px 0px 40px;
+}
+
+.margin35 {
+  margin-right: 50px;
+  margin-left: 99px;
+}
+
+.margin52 {
+  margin: 52px 52px 0px 52px;
+}
+
+.marginleft {
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.margintop {
+  margin-top: 48px;
+}
+
+.margin {
+  margin-top: 22%;
+}
+
+.marginright {
+  margin-right: 220px;
+}
+
+.margintemplate {
+  margin-top: 240px;
+}
+
+.marginless {
+  margin-top: 62px;
+}
+
+.margintop500 {
+  margin-top: 500px;
+}
+
+.float-right {
+  float: right;
+}
+
+.h1-size {
+  font-family: "hind Siliguri", sans-serif;
+  font-size: 80px;
+  text-align: center;
+}
+
+.h2-size {
+  font-family: "hind siliguri", sans-serif;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.center {
+  padding-left: 21%;
+  width: 840px;
+  line-height: 88px;
+  align-items: center;
+  text-align: center;
+}
+
+.connect-button {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  left: 600px;
+  width: 240px;
+  height: 72px;
+  text-align: center;
+  border-radius: 50px;
+  border-style: none;
+}
+
+.blackbg {
+  background: black;
+  border-style: none;
+  border-color: black;
+  padding-bottom: 6%;
+}
+
+.padding-uber {
+  padding-bottom: 18%;
+}
+
+.resume {
+  margin-top: 678px;
+}
+
+.clients {
+  background-color: black;
+  border-style: none;
+}
+
+.padding-left-experience {
+  padding-left: 10%;
+}
+
+.padding-right {
+  padding-right: 12%;
+}
+
+.padding700 {
+  padding-top: 300px;
+}
+
+.h3-size {
+  font-family: "hind Siliguri", sans-serif;
+  size: 20px;
+  color: white;
+  text-align: left;
+}
+
+.strategy {
+  height: 336px;
+  width: 330px;
+  background-color: #22262f;
+}
+
+.pservices {
+  position: absolute;
+  width: 266px;
+  height: 96px;
+  font-weight: bold;
+  font-family: "lato", sans-serif;
+  size: 16px;
+  color: #9ea4b3;
+  text-align: justify;
+  letter-spacing: 0.02em;
+  margin-block-end: 0%;
+  margin-block-start: 0%;
+}
+
+.services {
+  text-align: center;
+  margin-top: 282px;
+}
+
+.elipse {
+  display: flex;
+}
+
+.inline {
+  display: inline;
+}
+
+.h4-size {
+  font-family: "hind siliguri", sans-serif;
+  font-size: 32px;
+  color: white;
+  text-align: left;
+  margin: 0px;
+}
+
+.p-size {
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  line-height: 16px;
+  vertical-align: baseline;
+}
+
+.line-height12 {
+  line-height: 12px;
+}
+
+.line-height24 {
+  line-height: 24px;
+}
+
+.line-height40 {
+  line-height: 40px;
+}
+
+.john {
+  padding-top: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0%;
+}
+
+#img2 {
+  position: absolute;
+  z-index: 10;
+  padding-top: 250px;
+}
+
+#img3 {
+  position: absolute;
+  z-index: 20;
+  padding-top: 35%;
+}
+
+#img1 {
+  position: absolute;
+  z-index: 30;
+  padding-top: 350px;
+  width: 585px;
+}
+
+.talk {
+  position: absolute;
+  z-index: 30;
+  margin-left: 73%;
+  margin-top: 7%;
+}
+
+.underline {
+  text-decoration: underline;
+  z-index: 40;
+}
+
+.width400 {
+  width: 400px;
+}
+
+.width550 {
+  position: absolute;
+  width: 550px;
+  left: 450px;
+  z-index: 20;
+}
+
+.trust {
+  margin-top: 270px;
+  text-align: left;
+  line-height: 64px;
+  font-family: "hind siliguri", sans-serif;
+  font-size: 48px;
+  letter-spacing: -1px;
+  z-index: 40;
+}
+
+.ptemplate {
+  width: 510px;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "lato", sans-serif;
+  text-align: justify;
+  color: #9ea4b3;
+}
+
+.mam {
+  margin-bottom: 600px;
+}
+
+#img4 {
+  position: absolute;
+  z-index: 30;
+}
+
+#img5 {
+  z-index: 20;
+  position: absolute;
+  margin-top: 20px;
+}
+
+#rectangle {
+  width: 460px;
+  height: 440px;
+  background-color: #d0eaec;
+  z-index: 10;
+  position: absolute;
+  margin-top: 20px;
+  box-shadow: -20px 20px 0px 0px rgb(138, 138, 138, 0.3),
+    -40px 40px 0px 0px #2e2e2e;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.questions {
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 56px;
+}
+
+.center-left {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  display: inline-block;
+  line-height: 40px;
+  width: 550px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.arrow {
+  border: solid #9ea4b3;
+  border-width: 0 5px 5px 0;
+  display: inline-flex;
+  padding: 5px;
+  float: right;
+  margin-left: 20px;
+  margin-block-start: 12px;
+}
+
+.design {
+  text-align: left;
+  font-family: "hind siliguri", sans-serif;
+  color: antiquewhite;
+  text-decoration: underline;
+}
+
+.absolute {
+  position: absolute;
+}
+
+#footer-circle {
+  position: relative;
+  width: 485px;
+  overflow: hidden;
+}
+
+.footerbar {
+  position: absolute;
+  top: 1050%;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 128px;
+  background-color: black;
+  z-index: 40;
+  border-top: 10px;
+  border-color: #9ea4b3;
+}
+
+*/ .clear {
+  clear: both;
+}
